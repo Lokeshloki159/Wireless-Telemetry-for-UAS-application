@@ -1,0 +1,17 @@
+# Wi-Fi credentials
+secrets.h
+**/secrets.h
+
+# Arduino build artifacts
+build/
+.cache/
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

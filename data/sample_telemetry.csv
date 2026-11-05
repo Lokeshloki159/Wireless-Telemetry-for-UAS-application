@@ -1,0 +1,4 @@
+sequence,uptime_ms,ax_mps2,ay_mps2,az_mps2,gx_rads,gy_rads,gz_rads,temperature_c,button_pressed
+1,100,0.120,-0.040,9.810,0.030,0.010,-0.020,32.6,false
+2,200,0.125,-0.038,9.805,0.032,0.011,-0.018,32.6,false
+3,300,0.130,-0.035,9.800,0.040,0.015,-0.010,32.7,true
